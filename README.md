@@ -26,4 +26,4 @@ For an in-depth look at the code, I’ve shared screenshots of the code in PDF f
 
 
 ## Quick Program Execution Demo
-I’ve shared a quick demo video of the program execution on LinkedIn. Check it out:
+I’ve shared a quick demo video of the program execution on LinkedIn. Check it out: [Divyanshi Doser](https://www.linkedin.com/posts/divyanshi-doser_python-learningbydoing-codingjourney-activity-7328060224697683969-0IEF?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)
